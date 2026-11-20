@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello world, I'm Jurgis 👋
 
-<!--
-**juokeliai-jurgis/juokeliai-jurgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a backend-focused software developer transitioning from a long career in digital media and web production back to my lifelong passion: building reliable software and hardware systems.
 
-Here are some ideas to get you started:
+My coding journey started years ago with **BASIC, Pascal, and Assembly**, evolved through practical web development (**PHP, MySQL, HTML5**) and hobbyist **microcontroller/robotics** projects, and is now focused on modern **Python**, automation, and **CI/CD** workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack & Tools
+- **Languages:** Python, PHP, SQL, C/C++ (Arduino/ESP32), JavaScript, HTML5
+- **Databases:** MySQL, SQLite
+- **DevOps & Tools:** Git, GitHub Actions / Azure DevOps, Linux basics, uv, Docker (learning)
+
+#### 🔍 Currently Focusing On
+- Building clean, maintainable backend services and CLI/automation tools in Python
+- Home automation
+- Long distance RC projects
+
+#### 📫 Connect
+- **Location:** Vilnius, Lithuania
+- **Email:** juokeliai@gmail.com
